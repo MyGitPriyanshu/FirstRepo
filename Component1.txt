@@ -1,1 +1,2 @@
 this is component1.1
+changed compo1.1
