@@ -1,3 +1,9 @@
 this is component1.1
+<<<<<<< HEAD
 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
 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
+=======
+changed compo1.1
+>>>>>>> 5e4ed7c031ff4f898aee924b39ee7adcbdc331e3
+"new changes from notepad"
+"changes for developer1 working from git bash"
