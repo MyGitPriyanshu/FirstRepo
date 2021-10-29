@@ -11,5 +11,7 @@ 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
 
 "edited by developer2"
 
-"change to check merge conflict"
+"change to check merge conflict from local repo"
 "editing to check merge conflict from github"
+
+"change to check merge conflict from local repo"
