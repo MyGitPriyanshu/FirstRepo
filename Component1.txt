@@ -5,5 +5,9 @@ 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
 
 "new changes from notepad"
 "changes for developer1 working from git bash"
+<<<<<<< HEAD
 "edited from git bash"
 
+=======
+"edited by developer2"
+>>>>>>> 5986e7edb9778c99658e410995bdaa9363d680cc
