@@ -13,3 +13,5 @@ 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
 
 "change to check merge conflict"
 "editing to check merge conflict from github"
+
+2."editing to check merge conflict from github remote repo"
