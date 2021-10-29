@@ -12,3 +12,5 @@ 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
 =======
 "edited by developer2"
 >>>>>>> 5986e7edb9778c99658e410995bdaa9363d680cc
+
+"change to check merge conflict"
